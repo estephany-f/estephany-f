@@ -1,8 +1,6 @@
 
 <h2 aLign="center">
-  Estephany </h2>
-
-###
+  Estephany </h2> <br>
 
  <div aLign="left" style="display:inline_block">
   <a href="https://www.linkedin.com/in/estephany-franco-cardoso-da-silva-9bb1b016b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>
